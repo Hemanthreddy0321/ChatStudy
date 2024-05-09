@@ -1,5 +1,8 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+Register Number: 212223220035
+Name: HEMANTH A
+
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
@@ -75,7 +78,7 @@ Client-server chat applications are foundational to real-time communication over
 
 Program :
 
-client.py
+CLIENT
 ```
 import socket
 s=socket.socket()
@@ -96,7 +99,7 @@ while True:
            print(ack)
            i+=s
 ```
-server.py
+SERVER
 
 ```
 import socket
@@ -106,13 +109,13 @@ while True:
  print(s.recv(1024).decode())
  s.send("acknowledgement recived from the server".encode())
 ```
-Output:
+OUTPUT:
 
-client:
+CLIENT :
 
 ![image](https://github.com/Hemanthreddy0321/ChatStudy/assets/150005937/7fddfe7d-ec30-4609-bf41-ae97b75e960a)
 
-server:
+SERVER:
 
 ![image](https://github.com/Hemanthreddy0321/ChatStudy/assets/150005937/fd458667-df8d-4bcf-ae11-87892d078351)
 
