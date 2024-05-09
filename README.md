@@ -113,11 +113,13 @@ OUTPUT:
 
 CLIENT :
 
-![image](https://github.com/Hemanthreddy0321/ChatStudy/assets/150005937/7fddfe7d-ec30-4609-bf41-ae97b75e960a)
+![image](https://github.com/Hemanthreddy0321/ChatStudy/assets/150005937/add035c6-dfc3-42e1-9f11-bc59e807cf28)
+
 
 SERVER:
 
-![image](https://github.com/Hemanthreddy0321/ChatStudy/assets/150005937/fd458667-df8d-4bcf-ae11-87892d078351)
+![image](https://github.com/Hemanthreddy0321/ChatStudy/assets/150005937/7d25cc69-e0b9-4f1f-a12f-109f639a6b28)
+
 
 
 
